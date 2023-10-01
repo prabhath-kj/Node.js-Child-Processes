@@ -1,0 +1,25 @@
+{
+  "name": "node.js-child-processes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhath-kj/Node.js-Child-Processes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhath-kj/Node.js-Child-Processes/issues"
+  },
+  "homepage": "https://github.com/prabhath-kj/Node.js-Child-Processes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
